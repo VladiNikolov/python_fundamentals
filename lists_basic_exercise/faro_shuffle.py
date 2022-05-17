@@ -1,17 +1,17 @@
 cards = input().split()
-shuffle = int(input())
+number = int(input())
 
-length = len(cards)
-mid = int(length / 2)
+half_size = len(cards) // 2
 
-for i in range(0, shuffle):
-    list = []
-    for p in range(0, mid):
-        list.append(cards[p])
-        list.append(cards[mid])
-        mid += 1
-    cards = list
-    mid = int(length / 2)
+for i in range(number):
+    left_side = cards[0:half_size]
+    right_side = cards[half_size:]
 
-print(list)
+    faro_cards = []
 
+    for j in range(len(left_side)):
+        faro_cards.append(left_side[j])
+        faro_cards.append(right_side[j])
+
+    cards = faro_cards
+print(cards)
