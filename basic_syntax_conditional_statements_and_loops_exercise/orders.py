@@ -1,5 +1,6 @@
 number_of_orders = int(input())
 all_price = 0
+
 for _ in range(number_of_orders):
     price_per_capsule = float(input())
     days = int(input())
