@@ -9,6 +9,5 @@ for _ in range(number_of_orders):
         price = price_per_capsule * days * needed_capsule_per_day
         all_price += price
         print(f"The price for the coffee is: ${price:.2f}")
-    else:
-        continue
+
 print(f"Total: ${all_price:.2f}")
