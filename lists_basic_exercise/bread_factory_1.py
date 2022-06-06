@@ -9,12 +9,11 @@ for current_input in input_string:
     quantity = int(argument[1])
 
     if event == "rest":
+        energy_gained = quantity
         if energy + quantity > 100:
-            gained_energy = 0
-        else:
-            energy += quantity
-            gained_energy = quantity
-        print(f"You gained {gained_energy} energy.")
+            energy_gained = 100 - energy
+        energy += energy_gained
+        print(f"You gained {energy_gained} energy.")
         print(f"Current energy: {energy}.")
 
     elif event == "order":
