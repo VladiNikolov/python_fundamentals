@@ -7,13 +7,11 @@ for curr_event in working_day_events:
     event = events_info[0]
     number = int(events_info[1])
     if event == "rest":
-        if initial_energy >= 100:
-            initial_energy = 100
-            print(f"You gained 0 energy.")
-        else:
-            initial_energy += number
-            print(f"You gained {number} energy.")
-
+        energy_gained = number
+        if initial_energy + number > 100:
+            energy_gained = 100 - initial_energy
+        initial_energy += energy_gained
+        print(f"You gained {energy_gained} energy.")
         print(f"Current energy: {initial_energy}.")
 
     elif event == "order":
