@@ -6,7 +6,8 @@ def odd_and_even_sum(string):
             sum_even += string[current_element]
         else:
             sum_odd += string[current_element]
-    return f"Odd sum = {sum_odd}, Even sum = {sum_even}"
+
+    print(f"Odd sum = {sum_odd}, Even sum = {sum_even}")
 
 input_line = list(map(int, input()))
-print(odd_and_even_sum(input_line))
+odd_and_even_sum(input_line)
