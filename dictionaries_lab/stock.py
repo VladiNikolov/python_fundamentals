@@ -8,4 +8,3 @@ for product in searched_product:
         print(f"We have {inventory_product[product]} of {product} left")
     else:
         print(f"Sorry, we don't have {product}")
-        
