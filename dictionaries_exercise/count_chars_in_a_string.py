@@ -8,3 +8,4 @@ for symbol in input_string:
 for key, value in my_dict.items():
     print(f"{key} -> {value}")
 
+
