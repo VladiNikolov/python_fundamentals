@@ -9,7 +9,8 @@ for _ in range(number):
 
 print(my_list)
 
-for element in my_list:
+for i in range(len(my_list) - 1, -1, -1):
+    element = my_list[i]
     if word not in element:
         my_list.remove(element)
 
