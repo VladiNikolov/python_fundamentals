@@ -7,5 +7,4 @@ while count_numbers > 0:
     temp = min(input_line)
     input_line.remove(temp)
     count_numbers -= 1
-    
 print(*input_line, sep=", ")
