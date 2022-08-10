@@ -1,9 +1,9 @@
 input_lines = input().split()
 
 command_lines = input()
-command = command_lines.split()
-while command_lines != "No Money":
 
+while command_lines != "No Money":
+    command = command_lines.split()
     if command[0] == "OutOfStock":
         gift = command[1]
         for i in range(len(input_lines)):
@@ -21,7 +21,7 @@ while command_lines != "No Money":
         input_lines[-1] = gift
 
     command_lines = input()
-    command = command_lines.split()
+
 
 for element in input_lines:
     if "None" in input_lines:
