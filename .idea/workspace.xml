@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd6d091-dffc-42c5-b632-28d0047f920c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exams/03.man_o_war .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exams/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fundamentals_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fundamentals_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/01.black_flag.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01.black_flag.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/02.treasure_hunt.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/02.treasure_hunt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/activation_keys.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/activation_keys.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/counter_strike.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/counter_strike.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/emoji_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/emoji_detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/fancy_barcodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/fancy_barcodes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/heroes_of_code_and_logic_VII.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/heroes_of_code_and_logic_VII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/need_for_speed_III.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/need_for_speed_III.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/numbers_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/password_reset.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/password_reset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/plant_discovery.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/plant_discovery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/the_imitation_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/the_imitation_game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation_all_problems/the_lift.py" beforeDir="false" afterPath="$PROJECT_DIR$/exams/the_lift.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams_exercise/03.man_o_war .py" beforeDir="false" afterPath="$PROJECT_DIR$/exams_exercise/03.man_o_war .py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +22,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.03.man_o_war  (1)">
+  <component name="RunManager" selected="Python.03.man_o_war  (2)">
     <configuration name="01.black_flag" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fundamentals_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,27 +44,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.treasure_hunt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fundamentals_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exams" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exams/02.treasure_hunt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="03.man_o_war  (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fundamentals_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,6 +57,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exams/03.man_o_war .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03.man_o_war  (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fundamentals_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exams_exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exams_exercise/03.man_o_war .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,27 +120,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\desat\PycharmProjects\fundamentals_python\exams\03.man_o_war .py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03.man_o_war " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="fundamentals_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exams" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\desat\PycharmProjects\fundamentals_python\exam_exercise\03.man_o_war .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03.man_o_war  (2)" />
         <item itemvalue="Python.03.man_o_war  (1)" />
         <item itemvalue="Python.01.black_flag" />
         <item itemvalue="Python.03.man_o_war  (1)" />
         <item itemvalue="Python.task_man" />
-        <item itemvalue="Python.02.treasure_hunt" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +210,11 @@
           <url>file://$PROJECT_DIR$/basic_syntax_conditional_statements_and_loops_lab/even_numbers.py</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exams_exercise/03.man_o_war .py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
