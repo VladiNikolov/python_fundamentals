@@ -10,4 +10,3 @@ if new_list == []:
 new_list.sort()
 new_list.reverse()
 print(*new_list[0:5])
-
