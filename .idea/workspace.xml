@@ -251,8 +251,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/exams_exercise/03.p!rates.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="22" />
+          <line>22</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
