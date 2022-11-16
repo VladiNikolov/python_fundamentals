@@ -27,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_advanced" />
   </component>
   <component name="RunManager" selected="Python.03.p!rates">
     <configuration name="01.computer_store" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
